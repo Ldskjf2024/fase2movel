@@ -1,0 +1,52 @@
+{
+  "users": [
+    { "id": 1, "name": "Ana" },
+    { "id": 2, "name": "Andreia" },
+    { "id": 3, "name": "Léo" },
+    { "id": 4, "name": "Gabriela" },
+    { "id": 5, "name": "Gui" }
+  ],
+  "albums": [
+    { "id": 1, "userId": 1, "title": "Gatos" },
+    { "id": 2, "userId": 2, "title": "Família" },
+    { "id": 3, "userId": 3, "title": "Praia" },
+    { "id": 4, "userId": 4, "title": "Academia" },
+    { "id": 5, "userId": 5, "title": "Comidas" }
+  ],
+  "photos": [
+    { "id": 1, "albumId": 1, "title": "Gato Fifi", "thumbnailUrl": "https://picsum.photos/id/101/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijKvOOHlf5X-xo2a_HgCdArnsow3kUkjyUA&s" },
+    { "id": 2, "albumId": 1, "title": "Gato Bibi", "thumbnailUrl": "https://picsum.photos/id/102/150", "url": "https://conteudo.imguol.com.br/c/entretenimento/15/2025/07/14/gato-com-frio-1752524563387_v2_900x506.png" },
+    { "id": 3, "albumId": 1, "title": "Gato Tofu", "thumbnailUrl": "https://picsum.photos/id/103/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4QwQveYSsiTlBUcnW6CttW8Z6dASM1WzCg&s" },
+    { "id": 4, "albumId": 1, "title": "Gato Gugu", "thumbnailUrl": "https://picsum.photos/id/104/150", "url": "https://static.wixstatic.com/media/1cbe41_1db56ff59200428f99b87077f3b9f8dc.jpg" },
+    { "id": 5, "albumId": 1, "title": "Gata Bela", "thumbnailUrl": "https://picsum.photos/id/105/150", "url": "https://conteudo.imguol.com.br/c/entretenimento/15/2025/07/14/gato-com-frio-1752524563387_v2_900x506.png" },
+    { "id": 6, "albumId": 1, "title": "Gato Gigi", "thumbnailUrl": "https://picsum.photos/id/106/150", "url": "https://vetex.vet.br/blog/wp-content/uploads/2021/03/Gato-Laranja-curiosidades-sobre-ele-930x550.jpg" },
+
+    { "id": 7, "albumId": 2, "title": "Filhos", "thumbnailUrl": "https://picsum.photos/id/107/150", "url": "https://rackcdn.com/PostImagem/38795/a-importancia-da-fotografia.jpg" },
+    { "id": 8, "albumId": 2, "title": "Vovôs", "thumbnailUrl": "https://picsum.photos/id/108/150", "url": "https://s2.static.brasilescola.uol.com.br/be/2023/09/idosos-abracados-sorrindo.jpg" },
+    { "id": 9, "albumId": 2, "title": "Natal", "thumbnailUrl": "https://picsum.photos/id/109/150", "url": "https://euamoonatal.com/wp-content/uploads/2024/09/o-que-fazer-para-ter-um-natal-em-familia.jpg" },
+    { "id": 10, "albumId": 2, "title": "Ano novo", "thumbnailUrl": "https://picsum.photos/id/110/150", "url": "https://viajarcomcriancas.com.br/wp-content/uploads/2024/11/ano-novo.jpg" },
+    { "id": 11, "albumId": 2, "title": "Festa junina", "thumbnailUrl": "https://picsum.photos/id/111/150", "url": "https://turistandosp.com.br/wp-content/uploads/2024/05/festa-junina.jpg" },
+    { "id": 12, "albumId": 2, "title": "Churrasco", "thumbnailUrl": "https://picsum.photos/id/112/150", "url": "https://frigorificoarvoredo.com.br/blog/wp-content/uploads/2021/09/churrasco.jpg" },
+
+    { "id": 13, "albumId": 3, "title": "Amanhecer", "thumbnailUrl": "https://picsum.photos/id/113/150", "url": "https://tbn0.gstatic.com/images?q=tbn:ANd9GcTPVWvcNzodlgqCsqsUwleV3e3xcAUK7HyOSQ&s" },
+    { "id": 14, "albumId": 3, "title": "Canasvieiras", "thumbnailUrl": "https://picsum.photos/id/114/150", "url": "https://tbn0.gstatic.com/images?q=tbn:ANd9GcS0bZiV_JjWjimPw25NwUiqTtRDFv8oM63GOQ&s" },
+    { "id": 15, "albumId": 3, "title": "Ingleses", "thumbnailUrl": "https://picsum.photos/id/115/150", "url": "https://pousadadossonhos.com.br/ingleses.jpg" },
+    { "id": 16, "albumId": 3, "title": "Lagoa", "thumbnailUrl": "https://picsum.photos/id/116/150", "url": "https://glbimg.com/v1/lagoa-da-conceicao.jpg" },
+    { "id": 17, "albumId": 3, "title": "Brava", "thumbnailUrl": "https://picsum.photos/id/117/150", "url": "https://pousadadossonhos.com.br/brava.jpg" },
+    { "id": 18, "albumId": 3, "title": "Camboriú", "thumbnailUrl": "https://picsum.photos/id/118/150", "url": "https://upload.wikimedia.org/wikipedia/commons/BalnearioCamboriu.jpg" },
+
+    { "id": 19, "albumId": 4, "title": "Academia", "thumbnailUrl": "https://picsum.photos/id/119/150", "url": "https://acadbrasil.com.br/espaco-academia.jpg" },
+    { "id": 20, "albumId": 4, "title": "Halteres", "thumbnailUrl": "https://picsum.photos/id/120/150", "url": "https://oglobo.glbimg.com/halteres.jpg" },
+    { "id": 21, "albumId": 4, "title": "Cardio", "thumbnailUrl": "https://picsum.photos/id/121/150", "url": "https://smartfit.com/cardio.jpg" },
+    { "id": 22, "albumId": 4, "title": "Stiff", "thumbnailUrl": "https://picsum.photos/id/122/150", "url": "https://fiberoficial.com.br/stiff.jpg" },
+    { "id": 23, "albumId": 4, "title": "Alongamento", "thumbnailUrl": "https://picsum.photos/id/123/150", "url": "https://terra.com/alongamento.jpg" },
+    { "id": 24, "albumId": 4, "title": "Treino", "thumbnailUrl": "https://picsum.photos/id/124/150", "url": "https://treino.jpg" },
+
+    { "id": 25, "albumId": 5, "title": "Alaminuta", "thumbnailUrl": "https://picsum.photos/id/125/150", "url": "https://tripadvisor.com/alaminuta.jpg" },
+    { "id": 26, "albumId": 5, "title": "Strogonoff", "thumbnailUrl": "https://picsum.photos/id/126/150", "url": "https://receitasnestle.com.br/strogonoff.jpg" },
+    { "id": 27, "albumId": 5, "title": "Churrasco", "thumbnailUrl": "https://picsum.photos/id/127/150", "url": "https://tbn0.gstatic.com/images?q=tbn:ANd9GcTWiP-IT8QC8QPmBTOIdofQUrWI7bd2fLh0sQ&s" },
+    { "id": 28, "albumId": 5, "title": "Macarrão", "thumbnailUrl": "https://picsum.photos/id/128/150", "url": "https://academiaassai.com.br/macarrao.jpg" },
+    { "id": 29, "albumId": 5, "title": "Pizza", "thumbnailUrl": "https://picsum.photos/id/129/150", "url": "https://minhareceita.com.br/pizza.jpg" },
+    { "id": 30, "albumId": 5, "title": "Xis", "thumbnailUrl": "https://picsum.photos/id/130/150", "url": "https://cybercook.com.br/xis-frango.jpeg" }
+  ]
+}
