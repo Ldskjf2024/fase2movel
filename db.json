@@ -21,12 +21,12 @@
     { "id": 5, "albumId": 1, "title": "Gata Bela", "thumbnailUrl": "https://picsum.photos/id/105/150", "url": "https://conteudo.imguol.com.br/c/entretenimento/15/2025/07/14/gato-com-frio-1752524563387_v2_900x506.png" },
     { "id": 6, "albumId": 1, "title": "Gato Gigi", "thumbnailUrl": "https://picsum.photos/id/106/150", "url": "https://vetex.vet.br/blog/wp-content/uploads/2021/03/Gato-Laranja-curiosidades-sobre-ele-930x550.jpg" },
 
-    { "id": 7, "albumId": 2, "title": "Filhos", "thumbnailUrl": "https://picsum.photos/id/107/150", "url": "https://rackcdn.com/PostImagem/38795/a-importancia-da-fotografia.jpg" },
+    { "id": 7, "albumId": 2, "title": "Filhos", "thumbnailUrl": "https://picsum.photos/id/107/150", "url": "https://lunetas.com.br/wp-content/uploads/2021/07/passos-para-incentivar-autonomia-das-criancas-portal-lunetas.jpg" },
     { "id": 8, "albumId": 2, "title": "Vovôs", "thumbnailUrl": "https://picsum.photos/id/108/150", "url": "https://s2.static.brasilescola.uol.com.br/be/2023/09/idosos-abracados-sorrindo.jpg" },
-    { "id": 9, "albumId": 2, "title": "Natal", "thumbnailUrl": "https://picsum.photos/id/109/150", "url": "https://euamoonatal.com/wp-content/uploads/2024/09/o-que-fazer-para-ter-um-natal-em-familia.jpg" },
-    { "id": 10, "albumId": 2, "title": "Ano novo", "thumbnailUrl": "https://picsum.photos/id/110/150", "url": "https://viajarcomcriancas.com.br/wp-content/uploads/2024/11/ano-novo.jpg" },
-    { "id": 11, "albumId": 2, "title": "Festa junina", "thumbnailUrl": "https://picsum.photos/id/111/150", "url": "https://turistandosp.com.br/wp-content/uploads/2024/05/festa-junina.jpg" },
-    { "id": 12, "albumId": 2, "title": "Churrasco", "thumbnailUrl": "https://picsum.photos/id/112/150", "url": "https://frigorificoarvoredo.com.br/blog/wp-content/uploads/2021/09/churrasco.jpg" },
+    { "id": 9, "albumId": 2, "title": "Natal", "thumbnailUrl": "https://picsum.photos/id/109/150", "url": "https://ofertas.daju.com.br/wp-content/uploads/2022/10/decoracao-de-natal2-2022-scaled-2560x1280.jpeg" },
+    { "id": 10, "albumId": 2, "title": "Ano novo", "thumbnailUrl": "https://picsum.photos/id/110/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwpoGoIwiH38bsPcXTYBwJNikhKWCR1TXJg&s" },
+    { "id": 11, "albumId": 2, "title": "Festa junina", "thumbnailUrl": "https://picsum.photos/id/111/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpHw-TJrokV-D-36OSlpevimB6XQLw5XutA&s" },
+    { "id": 12, "albumId": 2, "title": "Churrasco", "thumbnailUrl": "https://picsum.photos/id/112/150", "url": "https://facasbv.cdn.magazord.com.br/img/2022/09/blog/3650/amigos-reunicos-em-bom-churrasco.jpeg" },
 
     { "id": 13, "albumId": 3, "title": "Amanhecer", "thumbnailUrl": "https://picsum.photos/id/113/150", "url": "https://tbn0.gstatic.com/images?q=tbn:ANd9GcTPVWvcNzodlgqCsqsUwleV3e3xcAUK7HyOSQ&s" },
     { "id": 14, "albumId": 3, "title": "Canasvieiras", "thumbnailUrl": "https://picsum.photos/id/114/150", "url": "https://tbn0.gstatic.com/images?q=tbn:ANd9GcS0bZiV_JjWjimPw25NwUiqTtRDFv8oM63GOQ&s" },
