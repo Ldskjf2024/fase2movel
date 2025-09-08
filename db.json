@@ -33,7 +33,7 @@
     { "id": 15, "albumId": 3, "title": "Ingleses", "thumbnailUrl": "https://picsum.photos/id/115/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsZPeQpPCh8fOvDnGrIuZxvGTawEvauMVIA&s" },
     { "id": 16, "albumId": 3, "title": "Lagoa", "thumbnailUrl": "https://picsum.photos/id/116/150", "url": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2020/07/prefeito_visita_lagoa_espelho_dagua-4-1280x854.jpg" },
     { "id": 17, "albumId": 3, "title": "Brava", "thumbnailUrl": "https://picsum.photos/id/117/150", "url": "https://static.ndmais.com.br/2021/12/alfabile-santana.jpeg" },
-    { "id": 18, "albumId": 3, "title": "Camboriú", "thumbnailUrl": "https://picsum.photos/id/118/150", "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Balne%C3%A1rio_Cambori%C3%BA_from_Unipraias_Park_2023-04-02.jpg" },
+    { "id": 18, "albumId": 3, "title": "Camboriú", "thumbnailUrl": "https://picsum.photos/id/118/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fLGD9CQVKxN0dnS1zZhgClfvbGC_ImiJ9g&s" },
 
     { "id": 19, "albumId": 4, "title": "Academia", "thumbnailUrl": "https://picsum.photos/id/119/150", "url": "https://acadbrasil.com.br/espaco-academia.jpg" },
     { "id": 20, "albumId": 4, "title": "Halteres", "thumbnailUrl": "https://picsum.photos/id/120/150", "url": "https://oglobo.glbimg.com/halteres.jpg" },
