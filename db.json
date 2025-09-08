@@ -36,17 +36,17 @@
     { "id": 18, "albumId": 3, "title": "Camboriú", "thumbnailUrl": "https://picsum.photos/id/118/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fLGD9CQVKxN0dnS1zZhgClfvbGC_ImiJ9g&s" },
 
     { "id": 19, "albumId": 4, "title": "Academia", "thumbnailUrl": "https://picsum.photos/id/119/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMbP7zHkFo8xeK64egDCwNM95Jo0W-h4Bzg&s" },
-    { "id": 20, "albumId": 4, "title": "Halteres", "thumbnailUrl": "https://picsum.photos/id/120/150", "url": "https://img.olx.com.br/images/13/137477825813813.jpg" },
+    { "id": 20, "albumId": 4, "title": "Halteres", "thumbnailUrl": "https://picsum.photos/id/120/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhsNv2q8l3zmRv_58Ot_GNxzrGXrIDFmgcg&s" },
     { "id": 21, "albumId": 4, "title": "Cardio", "thumbnailUrl": "https://picsum.photos/id/121/150", "url": "https://blog.gsuplementos.com.br/wp-content/uploads/2021/04/iStock-1132086660.jpg" },
     { "id": 22, "albumId": 4, "title": "Stiff", "thumbnailUrl": "https://picsum.photos/id/122/150", "url": "https://www.hipertrofia.org/blog/wp-content/uploads/2017/08/stiff-exercicio.jpg" },
     { "id": 23, "albumId": 4, "title": "Alongamento", "thumbnailUrl": "https://picsum.photos/id/123/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9bLj1IwaZo_w5lSSG0ZdRY4JH4xEzOzsWw&s" },
     { "id": 24, "albumId": 4, "title": "Treino", "thumbnailUrl": "https://picsum.photos/id/124/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3R0npZ3df6w8LgupAYmOqNyai5J9dsRPSAA&s" },
 
-    { "id": 25, "albumId": 5, "title": "Alaminuta", "thumbnailUrl": "https://picsum.photos/id/125/150", "url": "https://tripadvisor.com/alaminuta.jpg" },
-    { "id": 26, "albumId": 5, "title": "Strogonoff", "thumbnailUrl": "https://picsum.photos/id/126/150", "url": "https://receitasnestle.com.br/strogonoff.jpg" },
-    { "id": 27, "albumId": 5, "title": "Churrasco", "thumbnailUrl": "https://picsum.photos/id/127/150", "url": "https://tbn0.gstatic.com/images?q=tbn:ANd9GcTWiP-IT8QC8QPmBTOIdofQUrWI7bd2fLh0sQ&s" },
-    { "id": 28, "albumId": 5, "title": "Macarrão", "thumbnailUrl": "https://picsum.photos/id/128/150", "url": "https://academiaassai.com.br/macarrao.jpg" },
-    { "id": 29, "albumId": 5, "title": "Pizza", "thumbnailUrl": "https://picsum.photos/id/129/150", "url": "https://minhareceita.com.br/pizza.jpg" },
-    { "id": 30, "albumId": 5, "title": "Xis", "thumbnailUrl": "https://picsum.photos/id/130/150", "url": "https://cybercook.com.br/xis-frango.jpeg" }
+    { "id": 25, "albumId": 5, "title": "Alaminuta", "thumbnailUrl": "https://picsum.photos/id/125/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uUOvJH2DzybdyiafZ_kYqla_0fZaIL5_XQ&s" },
+    { "id": 26, "albumId": 5, "title": "Strogonoff", "thumbnailUrl": "https://picsum.photos/id/126/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQhRc81YY29W7ArmKU-nHEjAseuA0cmlBhQ&s" },
+    { "id": 27, "albumId": 5, "title": "Churrasco", "thumbnailUrl": "https://picsum.photos/id/127/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyX-uYStD7yDT1RbN5cvFnHcYQTZJI7JaYVA&s" },
+    { "id": 28, "albumId": 5, "title": "Macarrão", "thumbnailUrl": "https://picsum.photos/id/128/150", "url": "https://s01.video.glbimg.com/x720/10428512.jpg" },
+    { "id": 29, "albumId": 5, "title": "Pizza", "thumbnailUrl": "https://picsum.photos/id/129/150", "url": "https://swiftbr.vteximg.com.br/arquivos/ids/208740-450-450/618283-pizza-artesanal-calabresa_inn.jpg?v=638870725352100000" },
+    { "id": 30, "albumId": 5, "title": "Xis", "thumbnailUrl": "https://picsum.photos/id/130/150", "url": "https://guiadacozinha.com.br/wp-content/uploads/2023/05/tamanho-padrao-gc-42.jpg" }
   ]
 }
