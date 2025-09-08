@@ -42,11 +42,11 @@
     { "id": 23, "albumId": 4, "title": "Alongamento", "thumbnailUrl": "https://picsum.photos/id/123/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9bLj1IwaZo_w5lSSG0ZdRY4JH4xEzOzsWw&s" },
     { "id": 24, "albumId": 4, "title": "Treino", "thumbnailUrl": "https://picsum.photos/id/124/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3R0npZ3df6w8LgupAYmOqNyai5J9dsRPSAA&s" },
 
-    { "id": 25, "albumId": 5, "title": "Alaminuta", "thumbnailUrl": "https://picsum.photos/id/125/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uUOvJH2DzybdyiafZ_kYqla_0fZaIL5_XQ&s" },
+    { "id": 25, "albumId": 5, "title": "Alaminuta", "thumbnailUrl": "https://picsum.photos/id/125/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqO637hp8Yf31mHegMrqU0GKkNqPadDx6GsA&s" },
     { "id": 26, "albumId": 5, "title": "Strogonoff", "thumbnailUrl": "https://picsum.photos/id/126/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQhRc81YY29W7ArmKU-nHEjAseuA0cmlBhQ&s" },
     { "id": 27, "albumId": 5, "title": "Churrasco", "thumbnailUrl": "https://picsum.photos/id/127/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyX-uYStD7yDT1RbN5cvFnHcYQTZJI7JaYVA&s" },
     { "id": 28, "albumId": 5, "title": "Macarrão", "thumbnailUrl": "https://picsum.photos/id/128/150", "url": "https://s01.video.glbimg.com/x720/10428512.jpg" },
-    { "id": 29, "albumId": 5, "title": "Pizza", "thumbnailUrl": "https://picsum.photos/id/129/150", "url": "https://swiftbr.vteximg.com.br/arquivos/ids/208740-450-450/618283-pizza-artesanal-calabresa_inn.jpg?v=638870725352100000" },
+    { "id": 29, "albumId": 5, "title": "Pizza", "thumbnailUrl": "https://picsum.photos/id/129/150", "url": "https://www.sadia.com.br/assets/images/_/recipes/896f62f0c2667e9ee557096456d0c68ce9ec3609.webp" },
     { "id": 30, "albumId": 5, "title": "Xis", "thumbnailUrl": "https://picsum.photos/id/130/150", "url": "https://guiadacozinha.com.br/wp-content/uploads/2023/05/tamanho-padrao-gc-42.jpg" }
   ]
 }
