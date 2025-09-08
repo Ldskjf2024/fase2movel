@@ -35,12 +35,12 @@
     { "id": 17, "albumId": 3, "title": "Brava", "thumbnailUrl": "https://picsum.photos/id/117/150", "url": "https://static.ndmais.com.br/2021/12/alfabile-santana.jpeg" },
     { "id": 18, "albumId": 3, "title": "Camboriú", "thumbnailUrl": "https://picsum.photos/id/118/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fLGD9CQVKxN0dnS1zZhgClfvbGC_ImiJ9g&s" },
 
-    { "id": 19, "albumId": 4, "title": "Academia", "thumbnailUrl": "https://picsum.photos/id/119/150", "url": "https://acadbrasil.com.br/espaco-academia.jpg" },
-    { "id": 20, "albumId": 4, "title": "Halteres", "thumbnailUrl": "https://picsum.photos/id/120/150", "url": "https://oglobo.glbimg.com/halteres.jpg" },
-    { "id": 21, "albumId": 4, "title": "Cardio", "thumbnailUrl": "https://picsum.photos/id/121/150", "url": "https://smartfit.com/cardio.jpg" },
-    { "id": 22, "albumId": 4, "title": "Stiff", "thumbnailUrl": "https://picsum.photos/id/122/150", "url": "https://fiberoficial.com.br/stiff.jpg" },
-    { "id": 23, "albumId": 4, "title": "Alongamento", "thumbnailUrl": "https://picsum.photos/id/123/150", "url": "https://terra.com/alongamento.jpg" },
-    { "id": 24, "albumId": 4, "title": "Treino", "thumbnailUrl": "https://picsum.photos/id/124/150", "url": "https://treino.jpg" },
+    { "id": 19, "albumId": 4, "title": "Academia", "thumbnailUrl": "https://picsum.photos/id/119/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMbP7zHkFo8xeK64egDCwNM95Jo0W-h4Bzg&s" },
+    { "id": 20, "albumId": 4, "title": "Halteres", "thumbnailUrl": "https://picsum.photos/id/120/150", "url": "https://img.olx.com.br/images/13/137477825813813.jpg" },
+    { "id": 21, "albumId": 4, "title": "Cardio", "thumbnailUrl": "https://picsum.photos/id/121/150", "url": "https://blog.gsuplementos.com.br/wp-content/uploads/2021/04/iStock-1132086660.jpg" },
+    { "id": 22, "albumId": 4, "title": "Stiff", "thumbnailUrl": "https://picsum.photos/id/122/150", "url": "https://www.hipertrofia.org/blog/wp-content/uploads/2017/08/stiff-exercicio.jpg" },
+    { "id": 23, "albumId": 4, "title": "Alongamento", "thumbnailUrl": "https://picsum.photos/id/123/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9bLj1IwaZo_w5lSSG0ZdRY4JH4xEzOzsWw&s" },
+    { "id": 24, "albumId": 4, "title": "Treino", "thumbnailUrl": "https://picsum.photos/id/124/150", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3R0npZ3df6w8LgupAYmOqNyai5J9dsRPSAA&s" },
 
     { "id": 25, "albumId": 5, "title": "Alaminuta", "thumbnailUrl": "https://picsum.photos/id/125/150", "url": "https://tripadvisor.com/alaminuta.jpg" },
     { "id": 26, "albumId": 5, "title": "Strogonoff", "thumbnailUrl": "https://picsum.photos/id/126/150", "url": "https://receitasnestle.com.br/strogonoff.jpg" },
